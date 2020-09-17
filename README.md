@@ -1,6 +1,6 @@
 # redirection
 
-> My kryptonian Nuxt.js project
+> reproduction of a bug in nuxt-i18n
 
 ## Build Setup
 
